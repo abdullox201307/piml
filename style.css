@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Archivo Black", serif;
+}
+.saranegr{
+    position: relative;
+}
+.video{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+}
+.h1{
+    position: absolute;
+    z-index: -1;
+}
+.kuki{
+    margin: 0 260px;
+}
+.kuki ul{
+    display: flex;
+    gap: 27px;
+    object-fit: cover;
+    margin-left: 285px;
+    margin-top: -20px;
+    color: white;
+}
+.kuki ul li{
+    font-size: 11.92px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.ko{
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+.fub{
+    width: 130px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border: 2px solid white;
+}
+.jkjk{
+    margin-left: 310px;
+    padding-top: 600px;
+}
+.nabbb{
+    color: white;
+    margin-left: 310px;
+    margin-top: -310px;
+}
+.kokoa{
+    font-size: 41.06px;
+    font-weight: 400;
+}
+.bgi{
+    width: 1920px;
+    height: 1200px;
+    background-image: url(Img.png);
+}
+.kokoaa{
+    font-size: 41.06px;
+    font-weight: 400;
+    color: white;
+    padding-top: 832px;
+    padding-left: 310px;
+}
+.klkl{
+    padding-left: 310px;
+}
+.dfl{
+    font-size: 40.88px;
+    margin-top: -300px;
+    font-weight: 400;
+    color: white;
+    margin-left: 200px;
+}
+.jiajaij{
+    width: 1920px;
+    height: 81px;
+    background-color: black;    
+    margin-top: 110px;
+}
+.jiajaij ul{
+    display: flex;
+    color: white;
+    gap: 44px;
+}
+.jiajaij ul li{
+    margin-top: 30px;
+    width: 57.05px;
+    height: 24px;   
+}
